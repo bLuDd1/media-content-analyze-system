@@ -4,59 +4,59 @@
 
 **Запит**
 
-![creating task input](createTaskInput.png)
+![creating task input](./createTaskInput.png)
 
 **Відповідь**
 
-![creating task output](createTaskOutput.png)
+![creating task output](./createTaskOutput.png)
 
 ## Зчитування всіх сутностей Task (GET)
 
 **Запит та результат**
 
-![get all tasks](getAllTasks.png)
+![get all tasks](./getAllTasks.png)
 
 ## Зчитування сутності Task по ID (GET)
 
 **Запит та результат**
 
-![get task by id](getTaskByID.png)
+![get task by id](./getTaskByID.png)
 
 ## Зчитування сутності Task по ID, що не існує (GET)
 
 **Запит та результат**
 
-![get task with no id](getTaskWithNoID.png)
+![get task with no id](./getTaskWithNoID.png)
 
 ## Зчитування сутності Task по даті створення (GET)
 
 **Запит та результат**
 
-![get task by date](getTaskByDate.png)
+![get task by date](./getTaskByDate.png)
 
 ## Зчитування сутності Task по даті створення, що не існує (GET)
 
 **Запит та результат**
 
-![get task with no date](getTaskWithNoDate.png)
+![get task with no date](./getTaskWithNoDate.png)
 
 ## Оновлення сутності Task (PUT)
 
 **Запит**
 
-![update task input](updateTaskInput.png)
+![update task input](./updateTaskInput.png)
 
 **Результат**
 
-![update task output](updateTaskoOutput.png)
+![update task output](./updateTaskoOutput.png)
 
 ## Видалення сутності Task (DELETE)
 
 **Запит**
 
-![delete task input](deleteTaskInput.png)
+![delete task input](./deleteTaskInput.png)
 
 **Результат**
 
-![delete task output](deleteTaskOutput.png)
+![delete task output](./deleteTaskOutput.png)
 
