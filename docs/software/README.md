@@ -271,5 +271,5 @@ INSERT INTO `mydb`.`user` (`id`, `login`, `name`, `password`) VALUES (DEFAULT, '
 COMMIT;
 ```
 
-- RESTfull сервіс для управління даними
+## RESTfull сервіс для управління даними
 
