@@ -59,7 +59,7 @@ router.get('/task', (req, res) => {
 
     .get('/task/date/:createdAt', (req, res) => {
         const dateTime = req.params.createdAt;
-        pool.query(sql.getTaskByDate, dateTime, (err, result) => {
+        pool.query(sql.getTaskByDate, dateTime, (err, [result]) => {
             if (err) {
                 return res.status(500).json({
                     message: 'Error on server!'
